@@ -14,7 +14,6 @@ public class Lucas {
      * Конструктор класу {@code Lucas}.
      *
      * @param index номер числа Люка
-     * @throws IllegalArgumentException якщо індекс є від'ємним
      */
     public Lucas(int index) {
         this.index = index;
