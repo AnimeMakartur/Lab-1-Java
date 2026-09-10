@@ -1,0 +1,21 @@
+# Word/Office files
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Compiled class files
+*.class
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# IDE files
+*.idea/
+*.vscode/
