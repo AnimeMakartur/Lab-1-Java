@@ -17,9 +17,6 @@ public class Lucas {
      * @throws IllegalArgumentException якщо індекс є від'ємним
      */
     public Lucas(int index) {
-        if (index < 0) {
-            throw new IllegalArgumentException("Індекс числа Люка не може бути від'ємним.");
-        }
         this.index = index;
         this.lucasValue = calculateLucas(index);
     }
